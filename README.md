@@ -1,5 +1,6 @@
-# webpack
+# Get App
 
+- webpack
 - TypesScript
 - React v18
 - Redux Toolkit v1
